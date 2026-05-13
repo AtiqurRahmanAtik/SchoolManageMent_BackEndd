@@ -34,7 +34,7 @@ const allowedOrigins = process.env.ALLOWED_ORIGINS
   : [
       "http://localhost:5173",
       "http://localhost:3000",
-      "https://your-react-frontend-url.vercel.app" // <-- UPDATE THIS
+      "https://school-manage-ment-back-endd.vercel.app"
     ];
 
 app.use(
